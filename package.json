@@ -1,0 +1,19 @@
+{
+  "name": "challenge1",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "challenge1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Mastracola",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chromedriver": "^2.46.0",
+    "js-yaml": "^3.13.0",
+    "mocha": "^6.0.2",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
